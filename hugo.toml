@@ -1,0 +1,49 @@
+baseURL = "https://axiom-guy.github.io/"
+languageCode = 'en-us'
+title = 'Aditya Garg'
+theme='PaperMod'
+
+
+[menu]
+  [[menu.main]]
+    name="About"
+    url="/about/"
+    weight=1
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+  
+  [[menu.main]]
+    identifier = "Posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
+
+
+[params]
+  
+  mainSections=[]
+  user = "axiom-guy"
+  hostname='github.io'
+  defaultTheme = "dark"
+  ShowReadingTime = false
+  ShowCodeCopyButtons = true
+
+  [params.homeInfoParams]
+  content="Connect with me"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/axiom-guy"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/aditya-garg-b92b20287/"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:gargaditya.work@gmail.com"
+  
+
+
+  

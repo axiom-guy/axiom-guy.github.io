@@ -1,0 +1,5 @@
+/* Reduce spacing between home content and social icons */
+.home-info .social-icons {
+  margin-top: 0rem;  /* default might be 3rem or more */
+}
+
