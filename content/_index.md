@@ -5,6 +5,7 @@ title = 'home'
 layout= "home"
 +++
 # Hi, I'm Aditya 👋
+a curious mind building things at the intersection of code, creativity, and impact.  
+Welcome to my corner of the internet.  
 
-I build tools with LLMs, automation, and Hugo.  
- Checkout my [Projects](/Projects/) or connect with me below.
+Checkout my [Projects](/Projects/) or connect with me below.
