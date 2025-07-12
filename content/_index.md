@@ -8,4 +8,4 @@ layout= "home"
 a curious mind building things at the intersection of code, creativity, and impact.  
 Welcome to my corner of the internet.  
 
-Checkout my [Projects](/Projects/) or connect with me below.
+Checkout my [Projects](/projects/) or connect with me below.
